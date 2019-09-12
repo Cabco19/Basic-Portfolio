@@ -83,13 +83,13 @@ p {
     padding: 10px 10px 0 0;
 }
 #bio-image {
-      float: left;      
-      padding: 26px 30px 20px 0px;
+    float: left;      
+    padding: 26px 30px 20px 0px;
 }
 .port-box {     
     position: relative;
     display: inline-block;
-    margin: 10px 20px 10px 0;
+    margin: 25px 20px 10px 0;
 }
 .port-box .text {
     position: absolute;
