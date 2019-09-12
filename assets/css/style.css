@@ -38,13 +38,13 @@ nav {
     float: right;
 }
 nav a {
-    padding: 10px 0 10px 20px;
+    padding: 10px 1px 10px 20px;
     text-decoration: none;
     color: #777777;
 }
 /* hover link */
 nav a:hover {
-    padding: 10px 0 10px 20px;
+    padding: 10px 1px 10px 20px;
     text-decoration: none;
     color: #4aaaa5;
 }
